@@ -1,0 +1,18 @@
+[NSlogger]
+name = "thenitin_sharma"
+version = "0.0.1"
+authors = [
+  { name="Nitin Kumar Sharma ", email="nitin.175sharma@gmail.com" },
+]
+description = "NSlogger is a simple logging module for Python applications. It provides an easy way to set up logging in your programs, allowing you to record and store log messages during application execution. With NSLogger, you can configure log levels, log messages to a file and the console, and customize log message formatting. "
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/thenitinsharma/NSLogger"
+"Bug Tracker" = "https://github.com/thenitinsharma/NSLogger/issues"
